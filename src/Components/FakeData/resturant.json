@@ -1,0 +1,152 @@
+[
+    {
+        "id": 0,
+        "place":"Cox's Bazar",
+        "title": "Inani Royal Resort Limited",
+        "feature": "6 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": " Breakfast WiFi Air Conditioner",
+        "rating": 4.8,
+        "cost": 39,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/hotel/89769942.jpg"
+    },
+    {
+        "id": 1,
+        "place":"Cox's Bazar",
+        "title": "Windy Terrace Boutique Hotel",
+        "feature": "4 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.9,
+        "cost": 59,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/hotel/67598705.jpg"
+    },
+    {
+        "id": 2,
+        "place":"Cox's Bazar",
+        "title": "Hotel Sea Uttara",
+        "feature": "4 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": "Wif Air conditioning Kitchen",
+        "rating": 5,
+        "cost": 39,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/118799836.jpg"
+    },
+    {
+        "id": 3,
+        "place":"Cox's Bazar",
+        "title": "Sea Welcome Resort",
+        "feature": "2 guests | 1 bedrooms | 1 beds | 1 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.4,
+        "cost": 20,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/hotel/13015330_256140061396082_7218587718632696917_n.jpg"
+    },
+    {
+        "id": 4,
+        "place":"Cox's Bazar",
+        "title": "Grand Beach Resort",
+        "feature": "6 guests | 3 bedrooms | 3 beds | 3 baths",
+        "details": "  Breakfast WiFi Air Conditioner",
+        "rating": 4.5,
+        "cost": 89,
+        "image": "https://cf.bstatic.com/images/hotel/max1280x900/154/154564499.jpg"
+    },
+    {
+        "id": 5,
+        "place":"Sreemangal",
+        "title": "Grand Sultan Tea Resort & Golf",
+        "feature": "6 guests | 3 bedrooms | 2 beds | 2 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.9,
+        "cost": 69,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/0eb84b61_z_ILhuYUr.jpg"
+    },
+    {
+        "id": 6,
+        "place":"Sreemangal",
+        "title": "Green Leaf Guest House",
+        "feature": "4 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": "  WiFi Air Conditioner",
+        "rating": 4.9,
+        "cost": 59,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/green-leaf-guest-house.jpg"
+    },
+    {
+        "id": 7,
+        "place":"Sreemangal",
+        "title": "Hotel Grand Sreemangal",
+        "feature": "2 guests | 1 bedrooms | 1 beds | 1 baths",
+        "details": " WiFi Air Conditioner",
+        "rating": 4.9,
+        "cost": 29,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/hotel/delux_ac.JPG"
+    },
+    {
+        "id": 8,
+        "place":"Sreemangal",
+        "title": "Novem Eco Resort",
+        "feature": "4 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.8,
+        "cost": 59,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/41f7f62d207f10736246328afb86a1e6.jpg"
+    },
+    {
+        "id": 9,
+        "place":"Sreemangal",
+        "title": "Hermitage Guest House",
+        "feature": "6 guests | 3 bedrooms | 3 beds | 3 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.4,
+        "cost": 50,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/13321710_1015397491868684_2227997145395412702_n_1.jpg"
+    },
+    {
+        "id": 10,
+        "place":"Sundarban",
+        "title": "SAIRU HILL RESORTS LIMITED",
+        "feature": "6 guests | 3 bedrooms | 3 beds | 3 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.8,
+        "cost": 79,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/hotel/4d46c5e489a8747243267cfa39221b55.jpg"
+    },
+    {
+        "id": 11,
+        "place":"Sundarban",
+        "title": "Hill Crown Hotel & Resort",
+        "feature": "4 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.9,
+        "cost": 49,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/67404024_369241383991146_8915610043521433600_n.jpg"
+    },
+    {
+        "id": 12,
+        "place":"Sundarban",
+        "title": "Hotel River View",
+        "feature": "2 guests | 1 bedrooms | 1 beds | 1 baths",
+        "details": " Restaurant available WiFi Air Conditioner",
+        "rating": 4.7,
+        "cost": 39,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/River-View-Hotel-Bandarban-2-300x250.png"
+    },
+    {
+        "id": 13,
+        "place":"Sundarban",
+        "title": "Fanush Resort",
+        "feature": "6 guests | 3 bedrooms | 3 beds | 3 baths",
+        "details": " WiFi Air Conditioner",
+        "rating": 4.9,
+        "cost": 59,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/26238887_1352970631474686_1930330651329453183_n.jpg"
+    },
+    {
+        "id": 14,
+        "place":"Sundarban",
+        "title": "Nilambori Resort",
+        "feature": "4 guests | 2 bedrooms | 2 beds | 2 baths",
+        "details": " Restaurant available Breakfast WiFi Air Conditioner",
+        "rating": 4.8,
+        "cost": 59,
+        "image": "https://xercesblue.s3-ap-southeast-1.amazonaws.com/media/display_images/nila2.jpg"
+    }
+]

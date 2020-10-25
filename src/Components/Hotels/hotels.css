@@ -1,0 +1,55 @@
+.main-container{
+    
+}
+.hotel-prant-div{
+    margin-bottom:10px;
+}
+.hotel-area{
+    width: 60%;
+    float: left;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+.costom{
+    border: none;
+}
+.map-area{
+    width: 40%;
+    float: left;
+    padding: 20px;
+    height: 500px;
+    background-color: rgb(110, 103, 103);
+    border-radius: 10px;
+}
+.title h6{
+    color: rgb(29, 29, 28);
+    font-size: 35px;
+}
+.image-area{
+    width:35%;
+    float: left;
+    margin-bottom: 50px;
+}
+.content{
+    width: 52%;
+    float: right;
+    margin-bottom: 50px;
+}
+.custom-style{
+    height: 280px;
+}
+.title-style{
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+span {
+    margin-right: 65px;
+    font-size: 23px;
+}
+.image-area img {
+    width: 285px;
+    height: 210px;
+    border-radius: 18px;
+    cursor: pointer;
+}
